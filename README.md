@@ -9,7 +9,7 @@ I'm a IT engineering student at the University of Parma.
 - 📫 How to reach me: vincenzo.fraello@outlook.it 
 - ⚡ Fun fact: Bazinga
 
-## Skills and Experiences: 💻
+## 💻 Skills and Experiences:
 - Python 
 - JAVA 
 - C
