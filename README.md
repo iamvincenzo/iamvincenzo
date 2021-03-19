@@ -27,9 +27,9 @@ I'm a IT engineering student at the University of Parma.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iamvincenzo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vincenzo-fraello/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iamvincenzofraello/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://iamvincenzo.github.io/WebSite/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvincenzo&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvincenzo&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamvincenzo&theme=solarized-dark&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamvincenzo&theme=shades-of-purple&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/iamvincenzo)  
 
