@@ -15,27 +15,11 @@ Skills: Python / JAVA / C / C++ / Solidity / REACT / JS / JQuery / PHP / HTML / 
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvincenzo&theme=solarized-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvincenzo&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamvincenzo&theme=solarized-dark&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/iamvincenzo)  
-
-
-### Hi there 👋, my name is Vincenzo
-#### I'm a IT engineering student at the University of Parma.
-![I'm a IT engineering student at the University of Parma.](https://github.com/iamvincenzo/WebSite/blob/main/17973908.jpg)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: REACT / JS / HTML / CSS / JQuery / JAVA / C / C++ / Python
-
-- 🔭 I’m currently working on this page. 
-
-The skills developed during my studies:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamvincenzo&theme=solarized-dark&show_icons=true)
-
 
 
 <!--
