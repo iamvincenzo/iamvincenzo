@@ -7,7 +7,7 @@ I'm a IT engineering student at the University of Parma. The skills developed du
 
 ### Hi there 👋, my name is Vincenzo
 #### I'm a IT engineering student at the University of Parma.
-![I'm a IT engineering student at the University of Parma.](https://github.com/iamvincenzo/WebSite/blob/main/img/17973908.jpg)
+![I'm a IT engineering student at the University of Parma.](https://github.com/iamvincenzo/WebSite/blob/main/17973908.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
