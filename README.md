@@ -1,10 +1,3 @@
-### Hi there 👋
-
-I'm Vincenzo from Italy.
-I'm a IT engineering student at the University of Parma. The skills developed during my studies:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamvincenzo&theme=solarized-dark&show_icons=true)
-
 ### Hi there 👋, my name is Vincenzo
 #### I'm a IT engineering student at the University of Parma.
 ![I'm a IT engineering student at the University of Parma.](https://github.com/iamvincenzo/WebSite/blob/main/17973908.jpg)
@@ -15,8 +8,9 @@ Skills: REACT / JS / HTML / CSS / JQuery / JAVA / C / C++ / Python
 
 - 🔭 I’m currently working on this page. 
 
+The skills developed during my studies:
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamvincenzo&theme=solarized-dark&show_icons=true)
 
 
 
