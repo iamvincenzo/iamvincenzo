@@ -5,6 +5,8 @@ I'm a IT engineering student at the University of Parma. The skills developed du
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamvincenzo)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamvincenzo&hide=contribs,prs)
+
 
 <!--
 **iamvincenzo/iamvincenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
