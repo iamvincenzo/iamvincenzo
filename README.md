@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Vincenzo from Italy.
-I am a IT engineering student at the University of Parma. The skills developed during my studies:
+I'm a IT engineering student at the University of Parma. The skills developed during my studies:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamvincenzo)](https://github.com/anuraghazra/github-readme-stats)
 
