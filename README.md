@@ -1,7 +1,6 @@
 # Hi there 👋, my name is Vincenzo
-## I'm a IT engineering student at the University of Parma.
 ![I'm a IT engineering student at the University of Parma.](https://github.com/iamvincenzo/WebSite/blob/main/img/22585.jpg)
-
+### I'm a IT engineering student at the University of Parma.
 
 Skills: Python / JAVA / C / C++ / Solidity / REACT / JS / JQuery / PHP / HTML / CSS / Bootstrap
 
