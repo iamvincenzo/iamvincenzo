@@ -15,9 +15,9 @@ Skills: Python / JAVA / C / C++ / Solidity / REACT / JS / JQuery / PHP / HTML / 
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvincenzo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvincenzo&theme=solarized-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamvincenzo&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamvincenzo&theme=solarized-dark&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/iamvincenzo)  
 
