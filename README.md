@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Vincenzo
 
-![I'm a IT engineering student at the University of Parma.](https://github.com/iamvincenzo/WebSite/blob/main/Hey.png)
+<!--![I'm a IT engineering student at the University of Parma.](https://github.com/iamvincenzo/WebSite/blob/main/Hey.png)-->
 
 
 # About me
