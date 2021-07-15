@@ -6,7 +6,7 @@
 # About me
 I'm a IT engineering student at the University of Parma.
 
-- 🔭 I’m currently working on machine learning projects 
+- 🔭 I’m currently working on AI projects 
 - 🌱 I’m currently learning python for data analysis and frameworks for Big Data 
 - 📫 How to reach me: vincenzo.fraello@outlook.it 
 - ⚡ Fun fact: Bazinga
