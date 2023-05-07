@@ -4,7 +4,7 @@
 
 
 # About me
-I'm a IT engineering student at the University of Parma.
+As a Computer Engineering student at the University of Parma, I am particularly interested in deep learning, computer vision, and related topics.
 
 - 🔭 I’m currently working on AI projects 
 - 🌱 I’m currently learning python for data analysis and frameworks for Big Data 
