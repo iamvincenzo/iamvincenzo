@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Vincenzo
 
-![Header image](./header.png)
+![Header image](./header1.png)
 
 # About me
 As a Computer Engineering student at the University of Parma, I am particularly interested in deep learning, computer vision, and related topics.
