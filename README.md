@@ -6,10 +6,11 @@
 # About me
 As a Computer Engineering student at the University of Parma, I am particularly interested in deep learning, computer vision, and related topics.
 
-- 🔭 I’m currently working on AI projects 
-- 🌱 I’m currently learning python for data analysis and frameworks for Big Data 
+- 🔭 I’m currently working on AI (ML/DL) projects. 
+- 🌱 I’m currently learning python for data analysis, frameworks for Big Data and PyTorch. 
+- 📚 Deep-Learning addicted.
 - 📫 How to reach me: vincenzo.fraello@outlook.it 
-- ⚡ Fun fact: Bazinga
+- ⚡ Fun fact: Bazinga.
 
 ## 💻 Skills and Experiences:
 - Python 
