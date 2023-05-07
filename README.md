@@ -1,7 +1,6 @@
 # Hi there 👋, my name is Vincenzo
 
-<!--![I'm a IT engineering student at the University of Parma.](https://github.com/iamvincenzo/WebSite/blob/main/Hey.png)-->
-
+![Header image](./header.png)
 
 # About me
 As a Computer Engineering student at the University of Parma, I am particularly interested in deep learning, computer vision, and related topics.
