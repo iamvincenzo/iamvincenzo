@@ -4,6 +4,8 @@
 
 <h3 align="center">Deep Learning enthusiast</h3>
 
+---
+
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamvincenzo" alt="iamvincenzo" /></a> </p>-->
 
 - 🔭 I’m currently working on **AI (ML/DL) projects.**
