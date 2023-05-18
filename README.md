@@ -4,6 +4,8 @@
 
 <h3 align="center">Deep Learning enthusiast</h3>
 
+---
+
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
