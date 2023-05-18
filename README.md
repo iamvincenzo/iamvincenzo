@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **AI (ML/DL) projects.**
 
-- 🌱 I’m currently learning **python for data analysis, frameworks for Big Data and PyTorch.**
+- 🌱 I’m currently learning **Python for data analysis, frameworks for Big Data and PyTorch.**
 
 - 📫 How to reach me **vincenzo.fraello@outlook.it**
 
