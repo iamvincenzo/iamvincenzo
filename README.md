@@ -23,7 +23,7 @@
 
 ###
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left"> :globe_with_meridians: Connect with me</h3>
 
 ###
 
