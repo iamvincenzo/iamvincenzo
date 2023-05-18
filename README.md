@@ -29,6 +29,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvincenzo&label=Profile%20views&color=0e75b6&style=flat" alt="iamvincenzo" /> </p>
 
+---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamvincenzo&show_icons=true&locale=en&layout=compact&theme=shades-of-purple" alt="iamvincenzo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamvincenzo&show_icons=true&locale=en&theme=shades-of-purple" alt="iamvincenzo" /></p>
