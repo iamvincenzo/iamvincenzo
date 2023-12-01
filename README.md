@@ -2,7 +2,7 @@
 
 ![Header image](./github-header-image.png)
 
-<h3 align="center">Deep Learning enthusiast</h3>
+<h3 align="center">Computer Vision and Deep Learning enthusiast</h3>
 
 ---
 
