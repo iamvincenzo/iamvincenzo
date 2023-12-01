@@ -1,6 +1,6 @@
 <!--<h1 align="center">Hi 👋, I'm Vincenzo</h1> -->
 
-![Header image](./header1.png)
+![Header image](./github-header-image.png)
 
 <h3 align="center">Deep Learning enthusiast</h3>
 
