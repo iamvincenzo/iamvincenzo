@@ -12,7 +12,7 @@
 
 ###
 
-- 🔭 I’m currently working on **AI (ML/DL) projects.**
+- 🔭 I’m currently working on **Computer Vision** and **AI (ML/DL) projects.**
 
 - 🌱 I’m currently learning **Python for data analysis, frameworks for Big Data and PyTorch.**
 
