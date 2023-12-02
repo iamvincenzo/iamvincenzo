@@ -12,13 +12,13 @@
 
 ###
 
-- 🔭 I’m currently working on **Computer Vision** and **AI (ML/DL) projects.**
+- 🔭 Currently, I am engaged in projects related to **Computer Vision** and **AI (ML/DL).**
 
-- 🌱 I’m currently learning **Python for data analysis, frameworks for Big Data and PyTorch.**
+- 🌱 I am actively expanding my skills in **Python for data analysis**, exploring frameworks for **Big Data**, mastering the **OpenCV library**, and delving into the **PyTorch/Pytorch-Lightning frameworks.**
 
-- 📫 How to reach me **vincenzo.fraello@outlook.it**
+- 📫 You can reach me at **vincenzo.fraello@outlook.it**.
 
-- ⚡ Fun fact **Bazinga**
+- ⚡ Fun fact: **Bazinga!**
 
 </br>
 
