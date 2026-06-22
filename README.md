@@ -1,13 +1,9 @@
 # 👋 Vincenzo — AI Engineer | Computer Vision, LLMs & Edge AI
 
----
-
 ## 🎓 Education
 
 - **MSc in Computer Engineering (Industrial AI specialization)** — University of Parma  
 - **BSc in Computer Engineering, Electronics & Telecommunications** — University of Parma
-
----
 
 ## 💼 Professional Profile
 
@@ -22,8 +18,6 @@ I design and develop end-to-end AI solutions spanning **research, software engin
 
 My experience spans **smart mobility, industrial systems, aerospace applications, biomedical robotics, and applied AI research**, with a strong emphasis on building robust and maintainable systems that move from prototype to production.
 
----
-
 ## ⚙️ Core Expertise
 
 - Computer Vision (Detection, Segmentation, Tracking)
@@ -34,8 +28,6 @@ My experience spans **smart mobility, industrial systems, aerospace applications
 - Industrial software integration (MQTT, Modbus, system-level communication)
 - AI system design and deployment in production environments
 - Data pipelines and model lifecycle management
-
----
 
 ## 🧰 Tech Stack
 
@@ -59,8 +51,6 @@ My experience spans **smart mobility, industrial systems, aerospace applications
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
 ![Modbus](https://img.shields.io/badge/Modbus-00599C?style=for-the-badge)
 
----
-
 ## 📊 GitHub Analytics
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvincenzo&layout=compact)
@@ -68,8 +58,6 @@ My experience spans **smart mobility, industrial systems, aerospace applications
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamvincenzo&show_icons=true&theme=dark)
 
 ![Profile views](https://komarev.com/ghpvc/?username=iamvincenzo&style=flat-square)
-
----
 
 ## 📫 Contact
 
