@@ -1,60 +1,78 @@
-<!--<h1 align="center">Hi 👋, I'm Vincenzo</h1> -->
-
-![Header image](./github-header-image.png)
-
-<h3 align="center">Computer Vision and Deep Learning enthusiast</h3>
+# 👋 Vincenzo — AI Engineer | Computer Vision, LLMs & Edge AI
 
 ---
 
-###
+## 🎓 Education
 
-<h3 align="left">👩‍💻  About Me</h3>
+- **MSc in Computer Engineering (Industrial AI specialization)** — University of Parma  
+- **BSc in Computer Engineering, Electronics & Telecommunications** — University of Parma
 
-###
+---
 
-- 🔭 Currently, I am engaged in projects related to **Computer Vision** and **AI (ML/DL).**
+## 💼 Professional Profile
 
-- 🌱 I am actively expanding my skills in **Python for data analysis**, exploring frameworks for **Big Data**, mastering the **OpenCV library**, and delving into the **PyTorch/Pytorch-Lightning frameworks.**
+AI Engineer working across **computer vision, deep learning, and modern AI systems (LLMs, RAG, agentic architectures)**.
 
-- 📫 You can reach me at **vincenzo.fraello@outlook.it**.
+I design and develop end-to-end AI solutions spanning **research, software engineering, and production deployment**, with a focus on:
+- development of computer vision and perception systems for real-world applications
+- integration of LLM-based systems, including RAG pipelines and agentic workflows
+- deployment of deep learning models on embedded and cloud/edge environments
+- optimization of inference pipelines for performance and reliability
+- design of AI-driven software systems in industrial and applied contexts
 
-- ⚡ Fun fact: **Bazinga!**
+My experience spans **smart mobility, industrial systems, aerospace applications, biomedical robotics, and applied AI research**, with a strong emphasis on building robust and maintainable systems that move from prototype to production.
 
-</br>
+---
 
-###
+## ⚙️ Core Expertise
 
-<h3 align="left"> :globe_with_meridians: Connect with me</h3>
+- Computer Vision (Detection, Segmentation, Tracking)
+- Deep Learning model development & optimization
+- LLM applications (RAG systems, prompt-based architectures, agentic workflows)
+- Edge AI systems (NVIDIA Jetson, embedded Linux platforms)
+- Real-time inference pipelines
+- Industrial software integration (MQTT, Modbus, system-level communication)
+- AI system design and deployment in production environments
+- Data pipelines and model lifecycle management
 
-###
+---
 
-<p align="left">
-<a href="https://linkedin.com/in/vincenzo-fraello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincenzo-fraello" height="30" width="40" /></a>
-<a href="https://instagram.com/iamvincenzo01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamvincenzofraello" height="30" width="40" /></a>
-</p>
+## 🧰 Tech Stack
 
-</br>
+### AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-###
+### LLM / AI Systems
+![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG%20Systems-4B8BBE?style=for-the-badge)
 
-<h3 align="left">🛠 Language and tools</h3>
+### Edge & Deployment
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-###
+### Systems & Integration
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
+![Modbus](https://img.shields.io/badge/Modbus-00599C?style=for-the-badge)
 
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-</br>
+## 📊 GitHub Analytics
 
-###
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvincenzo&layout=compact)
 
-<h3 align="left">🔥   My Stats :</h3>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamvincenzo&show_icons=true&theme=dark)
 
-###
+![Profile views](https://komarev.com/ghpvc/?username=iamvincenzo&style=flat-square)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamvincenzo&show_icons=true&locale=en&layout=compact&theme=shades-of-purple" alt="iamvincenzo" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamvincenzo&show_icons=true&locale=en&theme=shades-of-purple" alt="iamvincenzo" /></p>
+## 📫 Contact
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamvincenzo&theme=shades-of-purple" alt="iamvincenzo" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvincenzo&label=Profile%20views&color=0e75b6&style=flat" alt="iamvincenzo" /> </p>
+- GitHub: https://github.com/iamvincenzo  
+- LinkedIn: https://www.linkedin.com/in/vincenzo-fraello  
+- Email: vincenzo.fraello@outlook.it
