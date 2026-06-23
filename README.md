@@ -53,7 +53,7 @@ My experience spans **smart mobility, industrial systems, aerospace applications
 
 ## 📊 GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvincenzo&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvincenzo&layout=compact&theme=dark)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamvincenzo&show_icons=true&theme=dark)
 
