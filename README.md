@@ -2,8 +2,8 @@
 
 ## 🎓 Education
 
-- **MSc in Computer Engineering (Industrial AI specialization)** — University of Parma  
-- **BSc in Computer Engineering, Electronics & Telecommunications** — University of Parma
+- **MSc. in Computer Engineering (Industrial AI specialization)** — University of Parma  
+- **BSc. in Computer Engineering, Electronics & Telecommunications** — University of Parma
 
 ## 💼 Professional Profile
 
